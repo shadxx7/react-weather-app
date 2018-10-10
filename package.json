@@ -1,6 +1,6 @@
 {
   "name": "react-weather-app",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A React Web App to display simple weather details",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,8 @@
   "dependencies": {
     "axios": "^0.8.1",
     "babel-preset-stage-1": "^6.1.18",
-    "lodash": "^3.10.1",
+    "gh-pages": "^1.2.0",
+    "lodash": "^4.17.11",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
     "react-google-maps": "^4.7.1",
