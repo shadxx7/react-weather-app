@@ -2,11 +2,11 @@
 
 ## About
 
-A simple weather app making the use of React, Redux and the Open Weather Map API and Google Maps API.
+A simple weather app making the use of React, Redux and the Open Weather Map API.
 
 ## Instruction to Launch
 
-* Install [Node](https://nodejs.org/en/) and [git](https://git-scm.com/downloads) for your computer(Alternatively you can use [yarn](https://yarnpkg.com/en/).
+* Install [Node](https://nodejs.org/en/) and [git](https://git-scm.com/downloads) for your computer.
 
 * Enter the following commands in a terminal (bash/cmd/powershell etc.) :
 
